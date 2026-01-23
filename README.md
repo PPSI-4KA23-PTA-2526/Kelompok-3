@@ -23,33 +23,18 @@ Proyek ini dikembangkan sebagai tugas akhir mata kuliah **Pengantar Perancangan 
 - **Email**: SMTP Service
 - **Design**: Figma
 
-## 📦 Instalasi
-
-```bash
-# Clone repository
-git clone https://github.com/PPSI-4KA23-PTA-2526/Kelompok3.git
-
-# Import database
-mysql -u root -p < database/lestari_adv.sql
-
-# Konfigurasi file config.php
-# Jalankan di web server (XAMPP/LAMP)
-```
-
 ## 📄 Dokumentasi
-
-- [Software Requirements Specification (SRS)](https://github.com/PPSI-4KA23-PTA-2526/Kelompok3/blob/dokumentasi/SRS%20Lestari%20ADV%201.2%20(3).pdf)
-- [Project Charter](https://github.com/PPSI-4KA23-PTA-2526/Kelompok3/blob/dokumentasi/PROJECT%20CHARTER_TEAM%203_M5.pdf)
-- [Mockup Design](https://www.figma.com/proto/3b5wHieWQSQDI8yRLrvjAi/Lestari-Adv)
-- [Gantt Chart](https://github.com/PPSI-4KA23-PTA-2526/Kelompok3/blob/dokumentasi/Gantt%20Chart%20Lestari%20ADV%201.1.pdf)
+https://github.com/PPSI-4KA23-PTA-2526/Kelompok-3/tree/dokumentasi
 
 ## 👥 Tim Pengembang
 
-Kelompok 3 - Mata Kuliah PPSI
-
-## 📝 Status Pengembangan
-
-Proyek ini masih dalam tahap pengembangan menggunakan metodologi SDLC Waterfall.
+Kelompok 3 4KA23 - Mata Kuliah PPSI
+| Nama | NPM |
+|------|--------------|
+| [Desta Aldi Fachri Wibowo](https://github.com/sickpeoples) | 10122355 |
+| [Didik Wahyudi](https://github.com/zysyper) | 10122380 |
+| [Maulidina Rahmawati](https://github.com/maaulidna) | 10122752 |
+| [Ziko Ardilay](https://github.com/zikoard) | 11122512 |
 
 ## 📜 Lisensi
 
